@@ -21,7 +21,6 @@ I am a passionate and driven MERN Stack developer currently pursuing a degree in
 ![](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-181717?style=flat&logo=github&logoColor=purple)
 
 
 
