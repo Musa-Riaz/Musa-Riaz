@@ -1,4 +1,4 @@
- Hi there, I'm Musa Riaz! 👋
+## Hi there, I'm Musa Riaz! 👋
 About Me
 I am a passionate and driven MERN Stack developer currently pursuing a degree in Software Engineering at the National University of Sciences and Technology (NUST). I thrive on building innovative web applications and enjoy tackling new challenges in the field of software development.
 
@@ -9,7 +9,7 @@ I am a passionate and driven MERN Stack developer currently pursuing a degree in
 📫 How to reach me: musariaz520@gmail.com
 
 
-🔨 Technologies and Tools
+##🔨 Technologies and Tools
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -24,9 +24,9 @@ I am a passionate and driven MERN Stack developer currently pursuing a degree in
 
 
 
-📫 Connect with Me
+##📫 Connect with Me
 Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi!
 
-📧 Contact
+##📧 Contact
 Email: musariaz520@gmail.com
 
