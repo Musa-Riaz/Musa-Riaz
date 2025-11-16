@@ -1,12 +1,12 @@
-## Hi there, I'm Musa Riaz! 👋
+## Hi there, I'm Musa Riaz! 
 About Me
 I am a passionate and driven MERN Stack developer currently pursuing a degree in Software Engineering at the National University of Sciences and Technology (NUST). I thrive on building innovative web applications and enjoy tackling new challenges in the field of software development.
 
-🔭 I’m currently working on several MERN Stack projects.
-🌱 I’m constantly learning and keeping up-to-date with the latest trends in web development.
-👯 I’m looking to collaborate on open source projects and exciting new ideas.
-💬 Ask me about JavaScript, React, Node.js, Express, and MongoDB.
-📫 How to reach me: musariaz520@gmail.com
+ I’m currently working on several MERN Stack projects.
+ I’m constantly learning and keeping up-to-date with the latest trends in web development.
+ I’m looking to collaborate on open source projects and exciting new ideas.
+ Ask me about JavaScript, React, Node.js, Express, and MongoDB.
+ How to reach me: musariaz520@gmail.com
 
 
 ##🔨 Technologies and Tools
