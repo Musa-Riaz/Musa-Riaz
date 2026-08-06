@@ -7,7 +7,7 @@ Full Stack Developer
 I am a passionate and driven full-stack developer currently pursuing a degree in software engineering at the National University of Sciences and Technology (NUST). I thrive on building innovative web applications and enjoy tackling new challenges in the field of software development.
 
 * 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [Musa'sPortfolio](http://https://portfolio-website-henna-zeta-69.vercel.app/)
+* 🖥️  See my portfolio at [Musa'sPortfolio](http://musariaz.dev)
 * ✉️  You can contact me at [musariaz520@gmail.com](mailto:musariaz520@gmail.com)
 * 👥  I'm looking to collaborate on open source projects and exciting new ideas.
 * 💬  Ask me about Asides from coding, I am a very big gym rat and love lifting weights.
